@@ -11,6 +11,16 @@ removed to determine if this has a significant effect on the performance of both
 district as a whole.
 
 ## Results
-The removal of Thomas High School ninth grade math and reading scores had the following effects:
 - District Summary
-  - temp
+  - [Removing Thomas High School Ninth Grade Scores](Resources/district_summary_thomas_removed.png)
+    - Average Math Score: 78.9
+    - Average Reading Score: 81.9
+    - % Passing Math: 74.8
+    - % Passing Reading: 85.7
+    - % Overall Passing: 64.9
+  - [All School Data](Resources/district_summary_all.png)
+    - Average Math Score: 79.0
+    - Average Reading Score: 81.9
+    - % Passing Math: 75.0
+    - % Passing Reading: 85.8
+    - % Overall Passing: 65.2
