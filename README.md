@@ -24,3 +24,4 @@ district as a whole.
     - % Passing Math: 75.0
     - % Passing Reading: 85.8
     - % Overall Passing: 65.2
+- School Summary
