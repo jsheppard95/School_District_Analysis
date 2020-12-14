@@ -11,3 +11,6 @@ removed to determine if this has a significant effect on the performance of both
 district as a whole.
 
 ## Results
+The removal of Thomas High School ninth grade math and reading scores had the following effects:
+- District Summary
+  - temp
