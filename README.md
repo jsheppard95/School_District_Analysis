@@ -25,3 +25,20 @@ district as a whole.
     - % Passing Reading: 85.8
     - % Overall Passing: 65.2
 - School Summary
+  - [Removing Thomas High School Ninth Grade Scores](Resources/school_summary_thomas_removed.png)
+    - Average Math Score: 83.4
+    - Average Reading Score: 83.9
+    - % Passing Math: 66.9
+    - % Passing Reading: 69.7
+    - % Overall Passing: 65.1
+  - [All School Data](Resources/school_summary_all.png)
+    - Average Math Score: 83.4
+    - Average Reading Score: 83.8
+    - % Passing Math: 93.3
+    - % Passing Reading: 93.3
+    - % Overall Passing: 90.1
+- Thomas High School vs. Other Schools
+    - We see in the [data frame for the top five schools with all data included](Resources/top_schools_all.png) that Thomas High School was the
+      second highest school by overall passing percentage, with 90.9% passing.
+    - The removal of ninth grade scores brings this down to 65.1%, closer to the bottom five schools in the district.
+- Math and Reading Scores by Grade
